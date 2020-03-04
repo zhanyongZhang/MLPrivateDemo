@@ -27,3 +27,4 @@ zhanyongZhang, meixixihou@163.com
 ## License
 
 MLPrivateDemo is available under the MIT license. See the LICENSE file for more info.
+# podspec
