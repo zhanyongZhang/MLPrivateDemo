@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MLPrivateDemo_Example' do
+  pod 'MLPrivateDemo', :path => '../'
+
+  target 'MLPrivateDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
